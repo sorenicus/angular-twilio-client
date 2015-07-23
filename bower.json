@@ -1,0 +1,27 @@
+{
+  "name": "angular-twilio-client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sorenicus/angular-twilio-client",
+  "description": "An AngularJS service for the Twilio client",
+  "main": "index.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "twilio",
+    "client"
+  ],
+  "authors": [
+    "David Sorensen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
